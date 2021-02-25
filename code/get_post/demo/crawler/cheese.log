@@ -1,0 +1,10 @@
+[2021-02-24T00:19:59.824] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:20:02.044] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:20:10.779] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:21:52.784] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:21:56.218] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:21:58.272] [ERROR] cheese - connect ECONNREFUSED 127.0.0.1:443
+[2021-02-24T00:22:18.441] [ERROR] cheese - write EPROTO 11828:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:332:
+
+[2021-02-24T00:22:18.457] [ERROR] cheese - write EPROTO 11828:error:1408F10B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:332:
+
